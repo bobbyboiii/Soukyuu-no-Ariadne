@@ -1,0 +1,17 @@
+{
+  "title": "<Soukyuu no Ariadne>",
+  "description": "<Lacile, a human weapon made during the last great war who now lives in isolation, meets Leana a runaway princess from the floating city of Ariadne and becomes her knight of the blue sky. They set off into the outside world, both harboring the dream of seeing what the world has to offer!>",
+  "artist": "<Norihiro Yagi>",
+  "author": "<Norihiro Yagi>",
+  "cover": "<https://shop.r10s.jp/book/cabinet/6439/9784098506439_1_2.jpg>",
+  "chapters": {
+    "<142>": {
+      "title": "<Monologue>",
+      "volume": "<15>",
+      "groups": {
+        "<Soukyuu Scans>": "/proxy/api/imgur/chapter/<cKzLfId>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
