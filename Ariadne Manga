@@ -39,6 +39,24 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/kJAnPNV/"
       },
       "last_updated": "1631639431"
-    } 
+    },
+    
+    "146": {
+      "title": "Mine to Command",
+      "volume": "15",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/AWfRDZI/"
+      },
+      "last_updated": "1631639431"
+    },
+    
+     "147": {
+      "title": "The Gnat That Pesters the Lion",
+      "volume": "15",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/JDhRzQp/"
+      },
+      "last_updated": "1631639431"
+    }
   }
 }
