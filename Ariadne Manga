@@ -58,5 +58,35 @@
       },
       "last_updated": "1631639431"
     }
+  },
+  
+  "148": {
+      "title": "Scattered",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/OUkjuJH/"
+      },
+      "last_updated": "1632241688"
+    }
+  },
+  
+   "149": {
+      "title": "Admiral Larini",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/9AlymBo/"
+      },
+      "last_updated": "1632241688"
+    }
+  },
+  
+  "150": {
+      "title": "The Ariette",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/9td3Wgq/"
+      },
+      "last_updated": "1632241688"
+    }
   }
 }
