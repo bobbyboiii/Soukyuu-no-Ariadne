@@ -84,6 +84,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/9td3Wgq/"
       },
       "last_updated": "1632241688"
-    }
+    },
+    
+      "151": {
+      "title": "Flower Picking",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/RTQl9sE/"
+      },
+      "last_updated": "1632846621"
+    }, 
+    
+      "152": {
+      "title": "Disappearance",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/JoqfGZG/"
+      },
+      "last_updated": "1632846621"
+    }, 
+    
+      "153": {
+      "title": "Hansul",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/hai2HQE/"
+      },
+      "last_updated": "1632846621"
+    } 
   }
 }
