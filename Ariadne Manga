@@ -111,6 +111,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/hai2HQE/"
       },
       "last_updated": "1632846621"
-    } 
+    },
+    
+      "154": {
+      "title": "Iron Mask",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/EVFTx3f/"
+      },
+      "last_updated": "1633460778"
+    },
+    
+      "155": {
+      "title": "Thunderstorm",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/y91zKiC/"
+      },
+      "last_updated": "1633460778"
+    },  
+    
+      "156": {
+      "title": "Manipulating the Weather",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/yUlJ3sF/"
+      },
+      "last_updated": "1633460778"
+    }  
   }
 }
