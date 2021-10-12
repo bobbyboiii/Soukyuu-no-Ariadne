@@ -138,6 +138,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/yUlJ3sF/"
       },
       "last_updated": "1633460778"
+    },
+    
+      "157": {
+      "title": "To the Summit",
+      "volume": "16",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/B24nSmX/"
+      },
+      "last_updated": "1634072439"
+    },
+    
+      "158": {
+      "title": "Arbiters of the End",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/NbQsEIP/"
+      },
+      "last_updated": "1634072439"
+    }, 
+    
+      "159": {
+      "title": "Yhu",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/eTkrkXX/"
+      },
+      "last_updated": "1634072439"
     }  
   }
 }
