@@ -165,6 +165,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/eTkrkXX/"
       },
       "last_updated": "1634072439"
-    }  
+    },
+    
+      "160": {
+      "title": "Had Best Be Judged",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/nQQqJpG/"
+      },
+      "last_updated": "1634671712"
+    },
+    
+      "161": {
+      "title": "No Chance to Explain",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/DGZvZYm/"
+      },
+      "last_updated": "1634671712"
+    },
+    
+      "162": {
+      "title": "No Mercy",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/cfQmJGa/"
+      },
+      "last_updated": "1634671712"
+    } 
   }
 }
