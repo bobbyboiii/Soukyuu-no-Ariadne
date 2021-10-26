@@ -192,6 +192,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/cfQmJGa/"
       },
       "last_updated": "1634671712"
-    } 
-  }
+    },
+    
+      "163": {
+      "title": "Heavenly Spear of Light, Gungnir Blast",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/5xwrwJR/"
+      },
+      "last_updated": "1634671712" 
+  },
+  
+      "164": {
+      "title": "Bloodline of Light",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/RLuQXZm/"
+      },
+      "last_updated": "1634671712" 
+  },
+  
+      "165": {
+      "title": "Where His Power Resides",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/vuN8cX7/"
+      },
+      "last_updated": "1634671712" 
+    }
+  } 
 }
