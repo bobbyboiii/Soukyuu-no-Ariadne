@@ -219,6 +219,33 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/vuN8cX7/"
       },
       "last_updated": "1635273707" 
-    }
+    },
+    
+      "166": {
+      "title": "Country Conquering",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/9vyre2B/"
+      },
+      "last_updated": "1635886164" 
+    },
+    
+     "167": {
+      "title": "Hand-to-Hand Combat",
+      "volume": "17",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/V5HCGuj/"
+      },
+      "last_updated": "1635886164" 
+    }, 
+    
+      "168": {
+      "title": "Go to Hell",
+      "volume": "18",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/1y7OR8H/"
+      },
+      "last_updated": "1635886164" 
+    }  
   } 
 }
