@@ -255,6 +255,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/L5B06EW/"
       },
       "last_updated": "1636136661" 
-    }  
+    },
+    
+      "170": {
+      "title": "Knight of the Dusk",
+      "volume": "18",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/MSp925A/"
+      },
+      "last_updated": "1637630270" 
+    }    
   } 
 }
