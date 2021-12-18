@@ -264,6 +264,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/MSp925A/"
       },
       "last_updated": "1637630270" 
-    }    
+    },
+    
+      "171": {
+      "title": "Sunset",
+      "volume": "18",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/d4OEdYw/"
+      },
+      "last_updated": "1639862076" 
+    }  
   } 
 }
