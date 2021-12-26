@@ -273,6 +273,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/d4OEdYw/"
       },
       "last_updated": "1639862076" 
-    }  
+    },
+    
+      "172": {
+      "title": "Nimwit",
+      "volume": "18",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/8IQk7sO/"
+      },
+      "last_updated": "1640551788" 
+    } 
   } 
 }
